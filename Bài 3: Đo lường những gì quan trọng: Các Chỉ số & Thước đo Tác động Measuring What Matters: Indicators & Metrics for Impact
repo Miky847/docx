@@ -74,6 +74,63 @@ Trước khi chốt một thước đo, hãy đảm bảo nó vượt qua 5 bài
 *   **Cẩn trọng với các Thước đo Tự tạo:** Cảnh giác với các chỉ số đầu ra bị chi phối thuần túy bởi nỗ lực ứng phó của chính bạn (ví dụ: tìm thấy ít bẫy hơn chỉ vì bạn tuần tra ít đi).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+Here is the lecture script for **Lesson 3: Measuring What Matters: Indicators & Metrics for Impact**, formatted slide-by-slide for a spoken presentation.
+
+***
+
+### **Slide 1: Title Slide**
+"Welcome to Lesson 3. Today’s session is titled **'Measuring What Matters: Indicators and Metrics for Impact'**. As a leader, your biggest challenge isn't just doing the work—it’s proving that the work actually makes a difference. This is your strategic guide to ensure your Change Project delivers real, measurable results."
+
+### **Slide 2: The Pathway to Meaningful Indicators**
+"To get to meaningful indicators, we follow a four-step pathway. First, we **Review Data Sources** to see who holds the information. Second, we **Identify Data Sets**—the specific numbers we need. Third, we **Evaluate Common Metrics** to see if they are truly useful. Finally, we **Select Key Indicators**. The key insight here is simple but dangerous: measuring the wrong thing leads to the wrong results."
+
+### **Slide 3: Anatomy of Information Gathering**
+"Let’s break down how we gather information. You have the **Data Source**, which is the 'Who' or the 'Where'—for example, a local government office or an NGO. Then you have the **Data Set**, which is the 'What'—the specific, quantifiable data you extract, like the number of community members registered for support or the percentage of household income derived from alternative activities. You need both to design effective interventions."
+
+### **Slide 4: Diagnosing Crime: The Problem-Analysis Triangle**
+"When looking for data sources, we use the **Problem-Analysis Triangle**. Crime happens when three things converge: a motivated offender, a suitable target, and an unguarded location. To find your data, look to the people who influence these sides: the **Handlers** who know the offenders, the **Guardians** who protect the targets, and the **Managers** who control the locations. These partners are your primary data sources."
+
+### **Slide 5: Internal Scanning: The McKinsey 7S Framework**
+"For internal organizational projects, we use the **McKinsey 7S Framework** to find data. We look at 'Hard Elements' like your **Strategy, Structure, and Systems**—things like org charts and intelligence flows. But we also look at 'Soft Elements' like **Shared Values, Skills, Staff, and Style**. Understanding the gap in staff skills or leadership styles is just as important as tracking your budget."
+
+### **Slide 6: The Measurement Dilemma: Effort vs. Impact**
+"This brings us to a major trap: **Effort vs. Impact**. Because wildlife trafficking is a 'silent-victim crime,' we often only measure the crime that is detected. This creates a dangerous reliance on **Effort Indicators**, which measure what we put *in* rather than what comes *out*. The flaw is that focusing purely on effort creates a false sense of success and can actually make your law enforcement less effective."
+
+### **Slide 7: Analyzing Effort Metrics: Patrol Operations**
+"Let's look at patrol operations. We often assume that more kilometers patrolled or a higher percentage of area covered means better security. But the **unintended reality** is that teams may move too fast to meet targets, ignoring tracks or community engagement just to hit their mileage. Even finding fewer snares might not mean victory—it might just mean you're looking in the wrong place or your teams have poor tracking skills."
+
+### **Slide 8: Analyzing Effort Metrics: Enforcement & Capacity**
+"The same applies to enforcement. A high number of arrests doesn't necessarily stop crime if you're only catching low-level couriers who are easily replaced. Similarly, holding many training sessions doesn't guarantee better performance if the quality is low or there’s no on-the-job improvement. Even new technology like drones will fail if you don't have the supporting systems and trained personnel to handle the data."
+
+### **Slide 9: Understanding Metric Hierarchies**
+"To fix this, you must understand the **Metric Hierarchy**. 
+1. **Inputs** are what you control directly, like the number of training events held. 
+2. **Outputs** are the immediate results, like test scores showing skills were learned. 
+3. **Outcomes** are the ultimate impact, like an increase in wildlife populations. 
+You must judge your success on **Outcomes**, not just inputs."
+
+### **Slide 10: Steering the Strategy: Lead vs. Lag Measures**
+"Think of it like running a half-marathon. Your **Lag Measure** is your final finish time—you only know it at the very end. Your **Lead Measures** are your checkpoints, like your training pace during practice runs. The 'Golden Rule' is that **you must have both**. Lead measures track active progress, while lag measures confirm final success."
+
+### **Slide 11: Principles for Meaningful Metrics**
+"When designing your metrics, keep these four principles in mind. Be **Threat-Specific**—don't just count snares; look at the ratio of old vs. new ones. Use **Recidivism Tracking** to see if offenders have actually stopped. Focus on **Performance & Impact** on the job, and stay **Context-Specific** by developing unique metrics for your specific situation, like self-reported community attitudes."
+
+### **Slide 12: The Meaningful Metric Checklist**
+"Before you finalize any metric, put it through this **5-test checklist**. Is it **Precise** (defined the same way by everyone)? Is it **Measurable**? Is it **Consistent** over time? Is it **Sensitive** enough to change when conditions change? And finally, is it **Practical** to collect without an excessive burden on your staff?"
+
+### **Slide 13: Translating Analysis to Outcomes: Turtle Egg Case Study**
+"Look at this case study on river turtle egg harvesting. The initial thought was to simply count raided nests. But nest numbers fluctuate yearly due to river conditions, making that count inaccurate. Instead, a **Meaningful Outcome Metric** was developed: the *ratio* of total estimated nests versus how many were raided. This made the data practical and representative of the actual threat reduction."
+
+### **Slide 14: Designing Your Project Indicators**
+"To wrap up, here is your design checklist:
+* **Scan Broadly** using the Triangle and 7S frameworks.
+* **Avoid the Effort Trap**—don't mistake activity for impact.
+* **Chain Your Metrics** from Inputs to Outputs to Outcomes.
+* **Balance the Timeline** by pairing Lead and Lag indicators.
+* **Watch for Self-Generated Metrics**—be careful of 'success' that is actually just a result of you doing less work, like finding fewer snares because you stopped patrolling."
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 4 steps to build success metrics for your project:​
 
 Step 1: Review Data Sources In this step, you need to identify which individuals or organizations hold information relevant to the problem you are solving.​
