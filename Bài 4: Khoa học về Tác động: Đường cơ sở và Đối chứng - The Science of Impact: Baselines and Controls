@@ -80,6 +80,44 @@ Bằng cách chỉ định ngẫu nhiên các khu vực phản hồi và đối 
 *   **Giải pháp giảm thiểu:** Hợp tác với các nhóm bên ngoài để giám sát khu vực đối chứng khi đội của bạn chưa đủ năng lực can thiệp, hoặc bắt đầu với các đối chứng ít rủi ro (như đào tạo nhân viên nội bộ thay vì các vùng săn trộm đang hoạt động).
 
 ------------------------------------------------------------------------------------------------------------------------
+Here is the lecture script for **Lesson 4: The Science of Impact: Baselines and Controls**, formatted slide-by-slide for a spoken presentation. This script is reconstructed based on the core concepts and content we discussed in our previous conversation history.
+
+***
+
+### **Slide 1: Title Slide**
+"Welcome to Lesson 4. Today, we are diving into **'The Science of Impact: Baselines and Controls'**. In the previous lessons, we talked about choosing a project and measuring it. Today, we focus on the most difficult question for any leader: How do you prove that the change you saw was actually caused by *your* actions?"
+
+### **Slide 2: Evaluating True Impact: The Formula**
+"The world is complex and always changing. If wildlife crime drops after you start a project, was it because of you, or was it just luck? To find the answer, we use the **True Impact Formula**: take the change in your target area and subtract the change in your control area. This reveals the impact that is strictly yours. To do this, you need three things: a **Baseline** (where you started), a **Before & After** comparison, and a **Control** (what would have happened if you did nothing)."
+
+### **Slide 3: Setting the Starting Line (Baselines)**
+"You cannot measure improvement without a **Baseline**. It transforms a vague problem into a measurable reality. For example, if you want to reduce snaring, you don't just count snares. You look at **CPUE**—Catch Per Unit Effort—which is the number of snares found per kilometer patrolled. You also look at the 'age ratio' of snares: are 60% of them brand new, or are they mostly old and rusted? This baseline tells you exactly what the threat looks like at day zero."
+
+### **Slide 4: Measuring Change: Mean vs. Trend**
+"When we look at results, we have to decide how to measure success. You can look at the **Mean**, which is the average level of crime. If the average drops, your response is working. But you can also look at the **Trend**. If crime was rapidly increasing and you managed to level it off or start a downward trend, that is a successful response—even if the overall average hasn't dropped significantly yet."
+
+### **Slide 5: Deciphering Problem Behaviors Over Time**
+"Problems behave in different ways, and you must recognize these patterns to judge your impact. **Regression to the Mean** happens when a problem naturally drops from an unusually high peak (like a post-COVID spike) even without your help. You must also watch for **Seasonal Rhythms**—don't mistake a natural winter drop in poaching for a strategic victory. Always compare like-for-like time periods, such as July this year versus July last year."
+
+### **Slide 6: Why ‘Before & After’ Is Not Enough**
+"If you increase patrols and see fewer snares, you might celebrate—but wait. What if demand for meat dropped because a local festival ended? What if another agency arrested a key trafficker in a different operation? Or what if poachers just changed their tactics to avoid your new patrols? These are **Confounding Factors**. Without a control area, you might take credit for a success that was actually caused by someone or something else."
+
+### **Slide 7: Criteria for a Valid Control Area**
+"A good **Control Area** acts as your 'Counterfactual'—it shows what would have happened if you didn't intervene. To be valid, a control area must be **Comparable**: it should have similar crime levels and socio-economic factors. It must also be **Independent**: it needs to be far enough away that your activities in the target area don't accidentally push poachers over the border into the control area, which we call 'displacement'."
+
+### **Slide 8: The Counterfactual in Practice: Turtle Eggs**
+"Let’s look at a practical example involving river turtle eggs. Imagine you start a protection project on one river. On that river, raids on nests drop by 24%. However, on a nearby 'control' river where you did nothing, raids also dropped by 5% naturally. By subtracting that 5% from your 24%, you find your **True Impact** was a 19% reduction. This is the only way to be honest about your results."
+
+### **Slide 9: The Gold Standard: Randomized Controlled Trials (RCT)**
+"The highest level of evidence comes from **Randomized Controlled Trials**. By randomly assigned areas for response and control, we eliminate bias. A famous example from the **Western Australia Police (WAPF)** showed that a 20-minute foot patrol creates a 'deterrence effect' that lasts exactly four days. Knowing this allowed them to optimize their schedules, saving hundreds of hours of wasted effort while maintaining security."
+
+### **Slide 10: The Ethical Challenge of Controls**
+"I know what you're thinking: *'Is it ethical to do nothing in a control area while animals are being killed?'* This is a real dilemma. We mitigate this by using **Low-Risk Controls**, like testing different training methods internally, or by partnering with outside groups to monitor a control area when your own team doesn't yet have the resources to cover it anyway."
+
+### **Slide 11: Final Step: Mapping Your Theory of Change**
+"To wrap up, you must map out your **Theory of Change**. Connect your **Inputs** (the resources you use) to your **Outputs** (the immediate results) and finally to your **Outcomes** (the actual impact on the threat). Set your baseline, choose your control, and draw a prediction graph. When the project is over, you won't just have a story to tell—you will have scientific proof of your leadership."
+
+------------------------------------------------------------------------------------------------------------------------
 To determine whether an intervention (e.g., anti-poaching patrols) is truly effective, the document outlines a core formula and three key factors:​
 
 1. The "True Impact" Formula You cannot simply look at the results after an intervention to claim success. True impact is calculated as follows:​
